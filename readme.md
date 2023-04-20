@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm S.Javahar Reddy</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javaharreddy&label=Profile%20views&color=0e75b6&style=flat" alt="javaharreddy" /> </p>
+
 - 🌱 I’m currently learning **C++,Django,MachineLearning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/javaharreddy?tab=repositories](https://github.com/javaharreddy?tab=repositories)
@@ -10,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/javahar_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javahar_reddy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sunkireddy javahar reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunkireddy javahar reddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sunkireddy-javahar-reddy-655684234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunkireddy-javahar-reddy-655684234" height="30" width="40" /></a>
 <a href="https://instagram.com/s.javahar_r_e_d_d_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.javahar_r_e_d_d_y" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sunkireddy javahar reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunkireddy javahar reddy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/javahar_reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="javahar_reddy" height="30" width="40" /></a>
@@ -28,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javaharreddy&show_icons=true&locale=en" alt="javaharreddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javaharreddy&" alt="javaharreddy" /></p>
+
