@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.Javahar Reddy</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javaharreddy&label=Profile%20views&color=0e75b6&style=flat" alt="javaharreddy" /> </p>
 
 - 🌱 I’m currently learning **C++,Django,MachineLearning**
