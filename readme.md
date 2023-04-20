@@ -27,3 +27,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=javaharreddy&show_icons=true&locale=en" alt="javaharreddy" width="420"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=javaharreddy&show_icons=true&locale=en&layout=compact" alt="javaharreddy" width="370"/>
 
+
+
+![snake gif](https://github.com/javaharreddy/javaharreddy/blob/output/github-contribution-grid-snake.gif)
