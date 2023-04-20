@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.Javahar Reddy</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="300" src="[[https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)">
+<img align="right" alt="coding" width="300" src="[[[https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)](https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javaharreddy&label=Profile%20views&color=0e75b6&style=flat" alt="javaharreddy" /> </p>
 
 - 🌱 I’m currently learning **C++,Django,MachineLearning**
